@@ -1,0 +1,1 @@
+# Praktikum-7-SPK_Fuzzy_CMeans
